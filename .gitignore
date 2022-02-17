@@ -21,7 +21,6 @@
 
 # misc
 .DS_Store
-.env*
 .serverless_nextjs
 
 # debug
@@ -35,4 +34,7 @@ yarn-error.log*
 # Index files are built automatically by create-index
 src/**/index.js
 
-.vscode
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
