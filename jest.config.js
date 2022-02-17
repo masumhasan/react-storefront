@@ -17,4 +17,4 @@ module.exports = {
   transformIgnorePatterns: [
     'node_modules/(?!(workbox-expiration|workbox-core|workbox-routing|workbox-strategies|workbox-precaching)/)',
   ],
-}
+};
